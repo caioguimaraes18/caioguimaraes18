@@ -7,10 +7,16 @@
 
 <div align="center">
   <p>
-    Me chamo Caio Guimarães e sou estudante de Análise e Desenvolvimento de Sistemas. Atualmente,
-    estou aprimorando minhas habilidades em SQL e Python, e focando em expandir meu conhecimento em
-    Power BI. Trabalho como analista de dados na Rappi.
+    Me chamo Caio Guimarães e sou estudante de Análise e Desenvolvimento de Sistemas. neste momento estou na FIAP, cursando Data Science. Atualmente, sou analista de dados júnior na Rappi, onde pratico e aplico meus conhecimentos em SQL, Python e Power BI.
   </p>
+
+ <p>
+  Tenho me dedicado à área de Business Intelligence (BI), aprimorando meu storytelling e desenvolvendo análises para o time, gerando insights valiosos para áreas que não possuem muito conhecimento técnico.
+ </p>
+
+ <p>
+  Estou focado em aprimorar minhas habilidades em Python para integrar essa linguagem ao meu cotidiano. Sempre busco referências de outros analistas para aplicar novas análises e processos no meu dia a dia.
+ </p>
 </div>
 
 
