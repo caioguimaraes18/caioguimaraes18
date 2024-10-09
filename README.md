@@ -10,7 +10,7 @@
  
 ```python 
 profissao = 'Analista de Dados Jr'
-formacao = 'Análise e Desenvolvimento de Sistemas'
+formacao = 'Análise e Desenvolvimento de Sistemas - UNICSUL'
 curso_atual = 'Data Science - FIAP'
 empresa = 'Rappi'
 
