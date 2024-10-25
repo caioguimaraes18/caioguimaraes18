@@ -16,7 +16,6 @@ empresa = 'Rappi'
 
 habilidades = ['SQL', 'Python', 'Power BI', 'Figma', 'Git']
 
-# Funções principais
 def sobre_mim():
     print(f"Olá, me chamo Caio Guimarães e sou {profissao}.")
     print(f"Sou formado em {formacao} e atualmente estou cursando {curso_atual}.")
@@ -26,7 +25,6 @@ def foco_atual():
     print("Tenho me dedicado à área de BI, aprimorando meu storytelling e gerando insights para o time.")
     print("Busco integrar Python no meu dia a dia e sempre estou em busca de referências para melhorar minhas análises.")
     
-# Chamada para execução
 sobre_mim()
 foco_atual()
 ```
