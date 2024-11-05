@@ -8,6 +8,9 @@
 
 <div align="left">
  
+**`Data Analyst`**
+
+ 
 ```python 
 profissao = 'Analista de Dados Jr'
 formacao = 'Análise e Desenvolvimento de Sistemas - UNICSUL'
