@@ -1,9 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=F7F6F2&reversal=true&section=header"/>
 
-
-
-
-
 <br>
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=caioguimaraes18&show_icons=true&title_color=111F4D&text_color=111F4D&icon_color=111F4D&bg_color=F7F6F2&cache_seconds=2300" alt="Status do GitHub de Caio Guimarães">
@@ -12,15 +8,13 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Caio Guimarães&color=111F4D&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-**`Data Analyst`**
 <div style="display: flex; align-items: center; gap: 5px;">
-
+ 
+**`Data Analyst`**
  
  ### Sobre mim
    Sou Analista de Dados Júnior na Rappi, com mais de um ano de experiência na área de SP&A do Turbo. Minha atuação é focada em Business Intelligence (BI), desenvolvendo dashboards e planilhas que oferecem visões estratégicas para o time. Também sou responsável pela documentação de processos, automação de queries e pela construção de análises geoespaciais com suporte da ferramenta Kepler.
    
-
-
 ### Minha Jornada
 
 Minha trajetória começou como Jovem Aprendiz na área de RH da Rappi, onde aproveitei as oportunidades para me desenvolver e crescer dentro da empresa. Fui promovido ao time de SP&A, onde atuo há mais de dois anos.
