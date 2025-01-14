@@ -17,10 +17,26 @@
    
 ### Minha Jornada
 
-Minha trajetória começou como Jovem Aprendiz na área de RH da Rappi, onde aproveitei as oportunidades para me desenvolver e crescer dentro da empresa. Fui promovido ao time de SP&A, onde atuo há mais de dois anos.
+Comecei minha trajetória como Jovem Aprendiz na Rappi, fui promovido a Assistente e, atualmente, atuo como Analista de Dados Júnior. Nessa função, estou há pouco mais de um ano, onde tenho me dedicado a aprimorar minhas habilidades diariamente, buscando referências e melhores práticas para elevar a qualidade do meu trabalho.
 
-Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul e atualmente estou cursando Data Science na FIAP, com conclusão prevista para 2026.
+Meu foco é desenvolver soluções que agreguem valor, utilizando ferramentas como Power BI, SQL e Python para transformar dados em insights estratégicos
 
+
+<details>
+<summary>Vida Acadêmica</summary>
+<br>
+
+**UNICSUL - Cruzeiro do Sul**
+
+- Análise e Desenvolvimento de Sistema (06/2022 - 06/2024)
+
+**FIAP**
+
+- Data Science (08/2024 - Previsão de conclusão: 08/2026)
+
+
+
+</details>
 
 <div align="center"> 
   <a href="mailto:contatocaioguimaraess@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
