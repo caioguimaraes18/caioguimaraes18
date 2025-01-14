@@ -1,69 +1,38 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=soft&height=60&color=111F4D&section=footer&fontAlign=50"/>
-
- <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F9F5EB&random=false&width=435&lines=Ol%C3%A1+meu+nome+%C3%A9+Caio+Guimar%C3%A3es%F0%9F%91%8B;Seja+bem+vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
- </div><br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=F7F6F2&reversal=true&section=header"/>
 
 
-<div align="left">
- 
+
+
+
+<br>
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=caioguimaraes18&show_icons=true&title_color=111F4D&text_color=111F4D&icon_color=111F4D&bg_color=F7F6F2&cache_seconds=2300" alt="Status do GitHub de Caio Guimarães">
+
+### Olá, meu nome é Caio Guimarães!
+
+<img src="https://img.shields.io/static/v1?label=Overview&message=Caio Guimarães&color=111F4D&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
 **`Data Analyst`**
+<div style="display: flex; align-items: center; gap: 5px;">
 
  
-```python 
-profissao = 'Analista de Dados Jr'
-formacao = 'Análise e Desenvolvimento de Sistemas - UNICSUL'
-curso_atual = 'Data Science - FIAP'
-empresa = 'Rappi'
-
-habilidades = ['SQL', 'Python', 'Power BI', 'Figma', 'Git']
-
-def sobre_mim():
-    print(f"Olá, me chamo Caio Guimarães e sou {profissao}.")
-    print(f"Sou formado em {formacao} e atualmente estou cursando {curso_atual}.")
-    print(f"Trabalho na {empresa}, onde aplico meus conhecimentos em {', '.join(habilidades)}.")
-    
-def foco_atual():
-    print("Tenho me dedicado à área de BI, aprimorando meu storytelling e gerando insights para o time.")
-    print("Busco integrar Python no meu dia a dia e sempre estou em busca de referências para melhorar minhas análises.")
-    
-sobre_mim()
-foco_atual()
-```
- 
-
----
-
-</div>
+ ### Sobre mim
+   Sou Analista de Dados Júnior na Rappi, com mais de um ano de experiência na área de SP&A do Turbo. Minha atuação é focada em Business Intelligence (BI), desenvolvendo dashboards e planilhas que oferecem visões estratégicas para o time. Também sou responsável pela documentação de processos, automação de queries e pela construção de análises geoespaciais com suporte da ferramenta Kepler.
+   
 
 
+### Minha Jornada
 
- <br>
+Minha trajetória começou como Jovem Aprendiz na área de RH da Rappi, onde aproveitei as oportunidades para me desenvolver e crescer dentro da empresa. Fui promovido ao time de SP&A, onde atuo há mais de dois anos.
 
-<div align="center">
-  <a herf="https://github.com/caioguimaraes18">
-  <img height="170em"  src="https://github-readme-stats.vercel.app/api?username=caioguimaraes18&show_icons=true&theme=dark&border_radius=20&text_color=fff">
-  <img height="170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioguimaraes18&layout=compact&theme=dark&border_radius=20&text_color=fff">
-  </a>
+Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul e atualmente estou cursando Data Science na FIAP, com conclusão prevista para 2026.
+
+
+<div align="center"> 
+  <a href="mailto:contatocaioguimaraess@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/caio-guimar%C3%A3ess/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 <br>
 
-
-<div align="center">
-   <img align="center" alt="Caio-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-   <img align="center" alt="Caio-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="Caio-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"/>
-   <img align="center" alt="Caio-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
-  <img align="center" alt="Caio-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/> 
-</div><br>
-
----
-<div  align="center"> 
-  <a href = "mailto:contatocaioguimaraess@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/caio-guimar%C3%A3ess/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div><br>
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=rect&height=60&color=111F4D&section=footer&fontAlign=50&reversal=false">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=F7F6F2&reversal=true&section=footer">
