@@ -6,8 +6,6 @@
 
 ### Olá, meu nome é Caio Guimarães!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Caio Guimarães&color=111F4D&style=for-the-badge&logo=GitHub" alt="Static GitHub">
-
 <div style="display: flex; align-items: center; gap: 5px;">
  
 **`Data Analyst`**
