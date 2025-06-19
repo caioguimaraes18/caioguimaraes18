@@ -11,13 +11,13 @@
 **`Data Analyst`**
  
  ### Sobre mim
-   Sou Analista de Dados Júnior na Rappi, com mais de um ano de experiência na área de SP&A do Turbo. Minha atuação é focada em Business Intelligence (BI), desenvolvendo dashboards e planilhas que oferecem visões estratégicas para o time. Também sou responsável pela documentação de processos, automação de queries e pela construção de análises geoespaciais com suporte da ferramenta Kepler.
+Atuo como Analista de Dados Júnior na Rappi, com mais de dois anos de experiência na área de SP&A do Turbo. Minha atuação é voltada para Business Intelligence (BI), desenvolvendo dashboards e planilhas que oferecem visões estratégicas ao time. Também sou responsável pela documentação de processos, automação de queries e pela construção de análises geoespaciais com o suporte da ferramenta Kepler.
    
 ### Minha Jornada
 
-Comecei minha trajetória como Jovem Aprendiz na Rappi, fui promovido a Assistente e, atualmente, atuo como Analista de Dados Júnior. Nessa função, estou há pouco mais de um ano, onde tenho me dedicado a aprimorar minhas habilidades diariamente, buscando referências e melhores práticas para elevar a qualidade do meu trabalho.
+Iniciei minha trajetória na Rappi como Jovem Aprendiz, fui promovido a Assistente e, atualmente, exerço a função de Analista de Dados Júnior. Nessa posição, venho me dedicando continuamente ao aprimoramento técnico e analítico, buscando referências e boas práticas para elevar a qualidade das entregas.
 
-Meu foco é desenvolver soluções que agreguem valor, utilizando ferramentas como Power BI, SQL e Python para transformar dados em insights estratégicos
+Meu foco está em desenvolver soluções que gerem valor ao negócio, utilizando ferramentas como Power BI, SQL e Python para transformar dados em insights estratégicos e acionáveis.
 
 
 <details>
