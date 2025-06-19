@@ -15,7 +15,7 @@ Atuo como Analista de Dados Júnior na Rappi, com mais de dois anos de experiên
    
 ### Minha Jornada
 
-Iniciei minha trajetória na Rappi como Jovem Aprendiz, fui promovido a Assistente e, atualmente, exerço a função de Analista de Dados Júnior. Nessa posição, venho me dedicando continuamente ao aprimoramento técnico e analítico, buscando referências e boas práticas para elevar a qualidade das entregas.
+Iniciei minha trajetória na Rappi como jovem aprendiz, fui promovido a assistente e, atualmente, exerço a função de Analista de Dados Júnior. Nessa posição, venho me dedicando continuamente ao aprimoramento técnico e analítico, buscando referências e boas práticas para elevar a qualidade das entregas.
 
 Meu foco está em desenvolver soluções que gerem valor ao negócio, utilizando ferramentas como Power BI, SQL e Python para transformar dados em insights estratégicos e acionáveis.
 
