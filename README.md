@@ -19,28 +19,44 @@ Iniciei minha trajetória na Rappi como jovem aprendiz, fui promovido a assisten
 
 Meu foco está em desenvolver soluções que gerem valor ao negócio, utilizando ferramentas como Power BI, SQL e Python para transformar dados em insights estratégicos e acionáveis.
 
+### Tecnologias & Ferramentas
+
+![Python](https://img.shields.io/badge/Python-111F4D?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-111F4D?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-111F4D?style=for-the-badge&logo=powerbi&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-111F4D?style=for-the-badge&logo=googlesheets&logoColor=white)
+
 
 <details>
-<summary>Vida Acadêmica</summary>
+<summary>🎓 <strong>Vida Acadêmica</strong></summary>
 <br>
 
-**UNICSUL - Cruzeiro do Sul**
+**📌 UNICSUL - Cruzeiro do Sul**  
+Análise e Desenvolvimento de Sistemas  
+06/2022 – 06/2024  
+> Foco em lógica de programação, estrutura de dados, banco de dados e desenvolvimento web.
 
-- Análise e Desenvolvimento de Sistema (06/2022 - 06/2024)
+---
 
-**FIAP**
+**📌 FIAP**  
+Data Science  
+08/2024 – Previsão de conclusão: 08/2026  
+> Curso com foco em estatística aplicada, machine learning, visualização de dados e inteligência artificial.
 
-- Data Science (08/2024 - Previsão de conclusão: 08/2026)
-
-
+---
 
 </details>
 
-<div align="center"> 
+<br>
+
+<div align="left"> 
   <a href="mailto:contatocaioguimaraess@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/caio-guimar%C3%A3ess/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 <br>
+
+
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=F7F6F2&reversal=true&section=footer">
