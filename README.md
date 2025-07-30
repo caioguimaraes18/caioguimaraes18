@@ -21,10 +21,15 @@ Meu foco está em desenvolver soluções que gerem valor ao negócio, utilizando
 
 ### Tecnologias & Ferramentas
 
+### 🧰 Tecnologias & Ferramentas
+
 ![Python](https://img.shields.io/badge/Python-111F4D?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-111F4D?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-111F4D?style=for-the-badge&logo=powerbi&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-111F4D?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 
 
 <details>
