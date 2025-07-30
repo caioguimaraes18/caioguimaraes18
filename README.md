@@ -34,14 +34,14 @@ Meu foco está em desenvolver soluções que gerem valor ao negócio, utilizando
 **📌 UNICSUL - Cruzeiro do Sul**  
 Análise e Desenvolvimento de Sistemas  
 06/2022 – 06/2024  
-> Foco em lógica de programação, estrutura de dados, banco de dados e desenvolvimento web.
+> Formação técnica focada em lógica de programação, estrutura de dados, desenvolvimento de sistemas e bancos de dados. Proporciona base sólida em tecnologia da informação, com aplicação prática em desenvolvimento web, mobile e análise de dados, preparando o profissional para atuar no ciclo completo de criação de sistemas.
 
 ---
 
 **📌 FIAP**  
 Data Science  
 08/2024 – Previsão de conclusão: 08/2026  
-> Curso com foco em estatística aplicada, machine learning, visualização de dados e inteligência artificial.
+> Curso voltado ao uso estratégico de dados, com foco em coleta, tratamento e análise para gerar valor de negócio. Abrange Machine Learning, Big Data, Cloud, NoSQL, LGPD e Data Warehousing, além de desenvolver habilidades de comunicação para transformar dados em insights claros e acionáveis.
 
 ---
 
