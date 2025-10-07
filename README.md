@@ -11,13 +11,17 @@
 **`Data Analyst`**
  
  ### Sobre mim
-Atuo como Analista de Dados Júnior na Rappi, com mais de dois anos de experiência na área de SP&A do Turbo. Minha atuação é voltada para Business Intelligence (BI), desenvolvendo dashboards e planilhas que oferecem visões estratégicas ao time. Também sou responsável pela documentação de processos, automação de queries e pela construção de análises geoespaciais com o suporte da ferramenta Kepler.
+Atualmente sou Analista de Dados Pleno na Shopee, atuando na área de Data & Analytics (D&A) de CRM.
+Meu trabalho é voltado para análises de comportamento e performance de usuários, com foco em Push Notifications (PN) e segmentação de clusters para otimizar a comunicação com a base.
+
+Auxilio o time de CRM na criação de estratégias baseadas em dados, desenvolvendo análises que apoiam decisões sobre frequência de envio, personalização e retenção de usuários.
    
 ### Minha Jornada
 
-Iniciei minha trajetória na Rappi como jovem aprendiz, fui promovido a assistente e, atualmente, exerço a função de Analista de Dados Júnior. Nessa posição, venho me dedicando continuamente ao aprimoramento técnico e analítico, buscando referências e boas práticas para elevar a qualidade das entregas.
+Iniciei minha jornada na área de dados na Rappi, onde fui de Jovem Aprendiz a Analista Júnior na área de SP&A (Strategic Planning & Analytics).
+Durante esse período, desenvolvi dashboards de performance, automatizei consultas e implementei análises geoespaciais com Kepler.gl, apoiando as operações do Turbo.
 
-Meu foco está em desenvolver soluções que gerem valor ao negócio, utilizando ferramentas como Power BI, SQL e Python para transformar dados em insights estratégicos e acionáveis.
+Hoje, na Shopee, aplico uma visão mais analítica e técnica, unindo estatística, BI e Data Science para apoiar a estratégia de CRM e crescimento da base de usuários.
 
 ### Tecnologias & Ferramentas
 
