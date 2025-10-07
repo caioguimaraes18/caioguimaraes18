@@ -23,8 +23,6 @@ Durante esse período, desenvolvi dashboards de performance, automatizei consult
 
 Hoje, na Shopee, aplico uma visão mais analítica e técnica, unindo estatística, BI e Data Science para apoiar a estratégia de CRM e crescimento da base de usuários.
 
-### Tecnologias & Ferramentas
-
 ### 🧰 Tecnologias & Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-111F4D?style=for-the-badge&logo=python&logoColor=white)
