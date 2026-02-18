@@ -2,8 +2,6 @@
 
 <br>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=caioguimaraes18&show_icons=true&title_color=111F4D&text_color=111F4D&icon_color=111F4D&bg_color=F7F6F2&cache_seconds=2300" alt="Status do GitHub de Caio Guimarães">
-
 ### Olá, meu nome é Caio Guimarães!
 
 <div style="display: flex; align-items: center; gap: 5px;">
