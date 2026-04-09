@@ -1,7 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=BFC9D1&reversal=true&section=header"/>
 
-### Caio Guimarães
-
 **`Data Analyst`**
 
 Analista de Dados Pleno na Shopee, atuando em Data & Analytics no time de Afiliados. Responsável pela estrutura analítica da área, com foco em segmentação de usuários, análise de performance e construção de dashboards estratégicos, incluindo iniciativas com parceiros como YouTube e Meta.
