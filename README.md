@@ -20,15 +20,4 @@ Atualmente, aplico conceitos de estatística, BI e Data Science para gerar insig
 
 <br>
 
-<div align="left">
-  <a href="mailto:contatocaioguimaraess@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/caio-guimar%C3%A3ess/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</div>
-
-<br>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=BFC9D1&reversal=true&section=footer"/>
