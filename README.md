@@ -4,6 +4,8 @@
 
 ---
 
+## Sobre mim
+
 
 
 
@@ -21,35 +23,47 @@ Gosto de conectar BI, estatística e um pouco de Data Science para gerar insight
 <br clear="left"/>
 
 
+
+
+
 ## Foco no momento
 
-<img align="right" width="130" style="margin-left:16px; filter:grayscale(100%); opacity:0.8;" src="https://github.com/user-attachments/assets/a1bbd9e7-7d60-4ced-bb65-79c3dcc7706f" />
+<img align="right" width="380" style="margin-left:16px; filter:grayscale(100%); opacity:0.8;" src="https://github.com/user-attachments/assets/a1bbd9e7-7d60-4ced-bb65-79c3dcc7706f" />
 
 - Construir análises úteis de verdade
 - Aprofundar estatística aplicada e fundamentos de Machine Learning
 - Evoluir de Analytics → Data Science: modelagem, inferência e experimentação
 - Documentar aprendizados enquanto acontecem, não depois que o caos já instalou
 
+
 <br clear="right"/>
 
----
 
-## Tecnologias & Ferramentas
-
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-0D1117?style=for-the-badge&logo=powerbi&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-0D1117?style=for-the-badge&logo=googlesheets&logoColor=white)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=caioguimaraes18&theme=high-contrast&radius=10&height=400)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+### Tecnologias & Ferramentas
 
----
+Atualmente utilizo **SQL de forma intensiva no dia a dia**, principalmente para extração, transformação e análise de dados.  
+Tenho ampliado meu uso de **Python**, com foco em análises mais avançadas e no desenvolvimento de modelos de machine learning.  
+Além disso, ainda utilizo bastante o **Google Sheets** para análises rápidas, validações e apoio no dia a dia.
+
+<br clear="right"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-0D1117?style=for-the-badge&logo=powerbi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Sheets-0D1117?style=for-the-badge&logo=googlesheets&logoColor=white"/>
+</p>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=caioguimaraes18&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+
 
 
 
