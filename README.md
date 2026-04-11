@@ -7,7 +7,7 @@
 
 
 
-<img align="left" width="130" style="margin-right:16px; filter:grayscale(100%);" src="" />
+<img align="left" width="130" style="margin-right:16px; filter:grayscale(100%);" src="https://github.com/user-attachments/assets/d8f5e849-eee7-4794-bd27-f5e6b642d3c1" />
 
 Comecei como Jovem Aprendiz na **Rappi** e fui crescendo até virar Analista de Dados Júnior em SP&A. Foi onde aprendi de verdade: dashboards, automação de processos e análises geoespaciais para suportar decisões do negócio.
 Hoje sou Analista Pleno na **Shopee**, no time de Afiliados aplicando segmentação de usuários, análise de performance e dashboards estratégicos com parceiros como YouTube e Meta.
@@ -23,7 +23,7 @@ Gosto de conectar BI, estatística e um pouco de Data Science para gerar insight
 
 ## Foco no momento
 
-<img align="right" width="80" style="margin-left:16px; filter:grayscale(100%); opacity:0.8;" src="" />
+<img align="right" width="80" style="margin-left:16px; filter:grayscale(100%); opacity:0.8;" src="https://github.com/user-attachments/assets/35f2db82-ca8f-45d4-a653-07fc84620760" />
 
 - Construir análises úteis de verdade
 - Aprofundar estatística aplicada e fundamentos de Machine Learning
