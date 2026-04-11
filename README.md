@@ -28,7 +28,7 @@ Gosto de conectar BI, estatística e um pouco de Data Science para gerar insight
 
 ## Foco no momento
 
-<img align="right" width="380" style="margin-left:16px; filter:grayscale(100%); opacity:0.8;" src="https://github.com/user-attachments/assets/a1bbd9e7-7d60-4ced-bb65-79c3dcc7706f" />
+<img align="right" width="375" style="margin-left:16px; filter:grayscale(100%); opacity:0.8;" src="https://github.com/user-attachments/assets/a1bbd9e7-7d60-4ced-bb65-79c3dcc7706f" />
 
 - Construir análises úteis de verdade
 - Aprofundar estatística aplicada e fundamentos de Machine Learning
