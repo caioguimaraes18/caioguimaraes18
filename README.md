@@ -39,7 +39,7 @@ Gosto de conectar BI, estatística e um pouco de Data Science para gerar insight
 <br clear="right"/>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=caioguimaraes18&theme=high-contrast&radius=10&height=400)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Isometric Calendar](metrics.isocalendar.svg)
 
 
 ### Tecnologias & Ferramentas
