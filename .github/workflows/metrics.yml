@@ -16,6 +16,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: caioguimaraes18
           filename: metrics.isocalendar.svg
+          base: ""
 
           # Plugin Isometric Calendar
           plugin_isocalendar: yes
