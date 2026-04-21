@@ -38,9 +38,13 @@ Gosto de conectar BI, estatística e um pouco de Data Science para gerar insight
 
 <br clear="right"/>
 
+<div align="center">
+  <img height="175"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=caioguimaraes18&theme=dark&hide_border=true&background=0D1117&ring=E67E22&fire=E67E22&currStreakLabel=E67E22&sideLabels=aaaaaa&currStreakNum=ffffff&sideNums=ffffff&dates=555555&stroke=30363D"/>
+  <img height="165"
+          src="https://github-readme-stats.vercel.app/api?username=caioguimaraes18&show_icons=true&bg_color=0D1117&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=0D1117&include_all_commits=true&count_private=true&hide_border=true"/>
 
-![Isometric Calendar](metrics.isocalendar.svg)
-
+</div>
 
 ### Tecnologias & Ferramentas
 
@@ -48,7 +52,10 @@ Atualmente utilizo **SQL de forma intensiva no dia a dia**, principalmente para 
 Tenho ampliado meu uso de **Python**, com foco em análises mais avançadas e no desenvolvimento de modelos de machine learning.  
 Além disso, ainda utilizo bastante o **Google Sheets** para análises rápidas, validações e apoio no dia a dia.
 
+
+
 <br clear="right"/>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=white"/>
