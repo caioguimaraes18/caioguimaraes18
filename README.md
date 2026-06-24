@@ -52,24 +52,6 @@ Meu foco atual é aprofundar conhecimentos em Estatística, Machine Learning e E
 
 </details>
 
-
-## Minha visão sobre dados
-
-* Automatizar processos repetitivos para gerar escala
-* Priorizar impacto no negócio acima de métricas de vaidade
-* Manter soluções simples, claras e sustentáveis
-* Transformar dados em ações mensuráveis
-
----
-
-## Atualmente estudando
-
-* Estatística aplicada
-* Inferência causal e experimentação
-* Machine Learning
-* Modelagem preditiva
-* Feature Engineering
-
 ---
 
 ## Stack
