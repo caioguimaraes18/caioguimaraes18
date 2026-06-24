@@ -18,25 +18,40 @@ Meu foco atual é aprofundar conhecimentos em Estatística, Machine Learning e E
 
 ## Experiência
 
-### Shopee
+<details>
+<summary><strong>Shopee | Data Analyst</strong></summary>
 
-**Data Analyst | Affiliate Program**
+<br>
 
-* Análise de performance de afiliados e campanhas
+**Affiliate Program**
+
+* Desenvolvimento de análises para otimização da performance de afiliados
 * Segmentação de usuários e estudos de comportamento
-* Desenvolvimento de métricas e monitoramento de resultados
-* Parcerias estratégicas com ecossistemas como YouTube e Meta
+* Construção de métricas e monitoramento de KPIs
+* Parcerias estratégicas com plataformas como YouTube e Meta
+* Automação de processos analíticos e reporting
 
-### Rappi
+**Tecnologias:** SQL, BigQuery, Python, Power BI, Google Sheets
 
-**Jovem Aprendiz → Data Analyst Jr. (SP&A)**
+</details>
 
-* Construção de dashboards e indicadores de negócio
-* Automação de processos e rotinas analíticas
-* Análises geoespaciais para suporte à operação
-* Apoio à tomada de decisão baseada em dados
+<details>
+<summary><strong>Rappi | Data Analyst Jr.</strong></summary>
 
----
+<br>
+
+**Strategy, Planning & Analytics (SP&A)**
+
+* Desenvolvimento de dashboards executivos
+* Automação de processos e análises recorrentes
+* Estudos geoespaciais para suporte operacional
+* Monitoramento de indicadores de negócio
+* Geração de insights para tomada de decisão
+
+**Tecnologias:** SQL, Python, Looker, Google Sheets
+
+</details>
+
 
 ## Minha visão sobre dados
 
