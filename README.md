@@ -94,6 +94,10 @@ Atuação no time de Strategy, Planning & Analytics, desenvolvendo soluções an
 
 ---
 
+
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/caioguimaraes18/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/caio-guimar%C3%A3ess/">
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
