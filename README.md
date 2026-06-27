@@ -8,49 +8,65 @@ Transformando dados em decisões por meio de análises, automações e soluçõe
 
 ## Sobre mim
 
-Sou Analista de Dados com experiência em marketplaces e growth, atuando na construção de análises, automações e métricas que apoiam a tomada de decisão.
+Data Analyst em constante evolução para Data Science.
 
-Atualmente trabalho na Shopee, onde acompanho performance de afiliados, segmentação de usuários e iniciativas estratégicas em parceria com plataformas como YouTube e Meta.
+Tenho experiência desenvolvendo soluções analíticas utilizando SQL, Python e BigQuery, desde a modelagem e extração de dados até a geração de insights para apoiar decisões estratégicas.
 
-Meu foco atual é aprofundar conhecimentos em Estatística, Machine Learning e Experimentação, construindo a transição de Analytics para Data Science.
+Neste GitHub você encontrará projetos envolvendo:
+
+* Análise Exploratória de Dados (EDA)
+* Machine Learning
+* Estatística Aplicada
+* Experimentação (A/B Testing)
+* Engenharia e Modelagem de Dados
+* Automação de Processos
+* Visualização de Dados
+
+Meu objetivo é construir um portfólio que demonstre não apenas conhecimento técnico, mas a capacidade de resolver problemas reais utilizando dados.
 
 ---
 
 ## Experiência
 
 <details>
-<summary><strong>Shopee | Data Analyst</strong></summary>
+<summary><strong>Shopee | Data Analyst (Affiliate Program)</strong></summary>
 
 <br>
 
-**Affiliate Program**
+Atuação em Analytics para o programa de Afiliados, apoiando iniciativas de aquisição, engajamento e monetização por meio de análises orientadas a dados.
 
-* Desenvolvimento de análises para otimização da performance de afiliados
-* Segmentação de usuários e estudos de comportamento
-* Construção de métricas e monitoramento de KPIs
-* Parcerias estratégicas com plataformas como YouTube e Meta
-* Automação de processos analíticos e reporting
+**Principais responsabilidades**
 
-**Tecnologias:** SQL, BigQuery, Python, Power BI, Google Sheets
+* Desenvolvimento de análises sobre comportamento de usuários e performance de afiliados.
+* Construção e monitoramento de KPIs para acompanhamento de campanhas e iniciativas estratégicas.
+* Criação de segmentações para direcionamento de ações de CRM e Growth.
+* Apoio na avaliação de impacto de campanhas, incentivos e programas promocionais.
+* Desenvolvimento de dashboards e automações para otimizar processos analíticos e reporting.
+* Suporte a projetos estratégicos em parceria com plataformas como YouTube e Meta.
+
+**Stack:** SQL • Python • Dataviz • Google Sheets
 
 </details>
 
 <details>
-<summary><strong>Rappi | Data Analyst Jr.</strong></summary>
+<summary><strong>Rappi | Data Analyst Jr. (Strategy, Planning & Analytics)</strong></summary>
 
 <br>
 
-**Strategy, Planning & Analytics (SP&A)**
+Atuação no time de Strategy, Planning & Analytics, desenvolvendo soluções analíticas para Operações, Comercial, Supply e Financeiro.
 
-* Desenvolvimento de dashboards executivos
-* Automação de processos e análises recorrentes
-* Estudos geoespaciais para suporte operacional
-* Monitoramento de indicadores de negócio
-* Geração de insights para tomada de decisão
+**Principais responsabilidades**
 
-**Tecnologias:** SQL, Python, Looker, Google Sheets
+* Desenvolvimento de dashboards executivos para monitoramento de indicadores de negócio.
+* Definição e acompanhamento de KPIs estratégicos para suporte à tomada de decisão.
+* Automatização de consultas SQL e processos recorrentes integrados ao Google Sheets.
+* Realização de análises geoespaciais para otimização da operação logística.
+* Criação de documentação técnica e padronização de processos analíticos, promovendo maior governança e reprodutibilidade.
+
+**Stack:** SQL • Python • Power BI • Looker • Kepler.gl • Google Sheets
 
 </details>
+
 
 ---
 
