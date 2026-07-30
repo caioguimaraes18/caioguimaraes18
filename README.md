@@ -15,7 +15,7 @@
 
 
 
-### Sobre mim
+## Sobre mim
 
 Atualmente sou **Analista de Dados Pleno na Shopee**, atuando com Analytics para Marketing de Afiliados. Meu trabalho envolve transformar dados em informações estratégicas por meio de análises, dashboards, automações e métricas que apoiam a tomada de decisão.
 
@@ -43,7 +43,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e em **Ciência de Dad
 </p>
 
 
-## 💼 Experiência Profissional
+## Experiência Profissional
 
 [<img align="left" width="120px" alt="Shopee" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Shopee.svg"/>](https://careers.shopee.com.br/)
 
