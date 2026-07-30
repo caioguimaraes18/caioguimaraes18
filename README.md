@@ -1,76 +1,31 @@
+
+<div align="center">
+
 # Caio Guimarães
 
-**Data Analyst @ Shopee** | Affiliate Program | São Paulo, BR
+### Data Analyst @ Shopee
 
-Transformando dados em decisões por meio de análises, automações e soluções orientadas a negócio.
+*Building data solutions that drive business decisions.*
 
----
+**Analytics • Data Science • AI • Machine Learning**
 
-## Sobre mim
+</div>
 
-Data Analyst em constante evolução para Data Science.
-
-Tenho experiência desenvolvendo soluções analíticas utilizando SQL, Python e BigQuery, desde a modelagem e extração de dados até a geração de insights para apoiar decisões estratégicas.
-
-Neste GitHub você encontrará projetos envolvendo:
-
-* Análise Exploratória de Dados (EDA)
-* Machine Learning
-* Estatística Aplicada
-* Experimentação (A/B Testing)
-* Engenharia e Modelagem de Dados
-* Automação de Processos
-* Visualização de Dados
-
-Meu objetivo é construir um portfólio que demonstre não apenas conhecimento técnico, mas a capacidade de resolver problemas reais utilizando dados.
-
----
-
-## Experiência
-
-<details>
-<summary><strong>Shopee | Data Analyst (Affiliate Program)</strong></summary>
-
-<br>
-
-Atuação em Analytics para o programa de Afiliados, apoiando iniciativas de aquisição, engajamento e monetização por meio de análises orientadas a dados.
-
-**Principais responsabilidades**
-
-* Desenvolvimento de análises sobre comportamento de usuários e performance de afiliados.
-* Construção e monitoramento de KPIs para acompanhamento de campanhas e iniciativas estratégicas.
-* Criação de segmentações para direcionamento de ações de CRM e Growth.
-* Apoio na avaliação de impacto de campanhas, incentivos e programas promocionais.
-* Desenvolvimento de dashboards e automações para otimizar processos analíticos e reporting.
-* Suporte a projetos estratégicos em parceria com plataformas como YouTube e Meta.
-
-**Stack:** SQL • Python • Dataviz • Google Sheets
-
-</details>
-
-<details>
-<summary><strong>Rappi | Data Analyst Jr. (Strategy, Planning & Analytics)</strong></summary>
-
-<br>
-
-Atuação no time de Strategy, Planning & Analytics, desenvolvendo soluções analíticas para Operações, Comercial, Supply e Financeiro.
-
-**Principais responsabilidades**
-
-* Desenvolvimento de dashboards executivos para monitoramento de indicadores de negócio.
-* Definição e acompanhamento de KPIs estratégicos para suporte à tomada de decisão.
-* Automatização de consultas SQL e processos recorrentes integrados ao Google Sheets.
-* Realização de análises geoespaciais para otimização da operação logística.
-* Criação de documentação técnica e padronização de processos analíticos, promovendo maior governança e reprodutibilidade.
-
-**Stack:** SQL • Python • Power BI • Looker • Kepler.gl • Google Sheets
-
-</details>
+<img src="https://img.shields.io/badge/Analytics-Data%20Driven-181717?style=for-the-badge&logo=github&logoColor=white" />
 
 
----
 
-## Stack
+### Sobre mim
+
+Atualmente sou **Analista de Dados Pleno na Shopee**, atuando com Analytics para Marketing de Afiliados. Meu trabalho envolve transformar dados em informações estratégicas por meio de análises, dashboards, automações e métricas que apoiam a tomada de decisão.
+
+Antes da Shopee, trabalhei na **Rappi**, desenvolvendo soluções de dados para áreas como Operações, Supply, Financeiro e Comercial, com foco em monitoramento de indicadores, análises geoespaciais e otimização de processos.
+
+Sou formado em **Análise e Desenvolvimento de Sistemas** e em **Ciência de Dados**, com foco em Analytics, Business Intelligence e desenvolvimento de soluções orientadas por dados. Atualmente, continuo aprofundando meus conhecimentos em **Machine Learning**, **Inteligência Artificial** e **Estatística Aplicada**, buscando construir soluções cada vez mais inteligentes e gerar impacto por meio dos dados.
+
+
+
+### Stack
 
 <p>
   <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -83,16 +38,28 @@ Atuação no time de Strategy, Planning & Analytics, desenvolvendo soluções an
   <img src="https://img.shields.io/badge/Google_Sheets-0D1117?style=for-the-badge&logo=googlesheets&logoColor=white"/>
 </p>
 
----
 
-<div align="center">
-  <img height="170"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=caioguimaraes18&theme=dark&hide_border=true&background=0D1117&ring=E67E22&fire=E67E22&currStreakLabel=E67E22&sideLabels=aaaaaa&currStreakNum=ffffff&sideNums=ffffff&dates=555555&stroke=30363D"/>
-  <img height="170"
-    src="https://github-readme-stats.vercel.app/api?username=caioguimaraes18&show_icons=true&bg_color=0D1117&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=0D1117&include_all_commits=true&count_private=true&hide_border=true"/>
-</div>
+### Experiência Profissional
 
----
+[<img align="left" height="40px" alt="Shopee" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Shopee.svg"/>](https://careers.shopee.com.br/)
+
+**Analista de Dados Pleno** \
+**Shopee** • Tempo integral \
+**Stack:** `SQL` `Python` `BigQuery` `Google Sheets` `Looker Studio` `Git` \
+**Principais entregas:** Analytics para Marketing de Afiliados, Dashboards Executivos, Estudos de Cohort, Automação de Processos e Análises de Performance.
+
+<br>
+
+
+[<img align="left" height="40px" alt="Rappi" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Rappi_logo.svg/960px-Rappi_logo.svg.png"/>](https://www.rappi.com.br/)
+
+**Analista de Dados Jr** \
+**Rappi** • Tempo integral \
+**Stack:** `SQL` `Snowflake` `Looker Studio` `Google Sheets` `Airflow` `Git` \
+**Principais entregas:** Dashboards Operacionais, Monitoramento de KPIs, Análises Geoespaciais, Estudos de Performance Operacional e Geração de Insights para tomada de decisão.
+
+<br>
+
 
 
 
