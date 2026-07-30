@@ -43,27 +43,27 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e em **Ciência de Dad
 </p>
 
 
-### Experiência Profissional
+## 💼 Experiência Profissional
 
-[<img align="left" height="40px" alt="Shopee" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Shopee.svg"/>](https://careers.shopee.com.br/)
+[<img align="left" width="120px" alt="Shopee" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Shopee.svg"/>](https://careers.shopee.com.br/)
 
-**Analista de Dados Pleno** \
-**Shopee** • Tempo integral \
-**Stack:** `SQL` `Python` `BigQuery` `Google Sheets` `Looker Studio` `Git` \
-**Principais entregas:** Analytics para Marketing de Afiliados, Dashboards Executivos, Estudos de Cohort, Automação de Processos e Análises de Performance.
+**Analista de Dados Pleno** | **Set 2025 – Atual**
 
-<br>
+**Stack:** `SQL` `Python` `Google Sheets` `Git`
 
-
-[<img align="left" height="40px" alt="Rappi" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Rappi_logo.svg/960px-Rappi_logo.svg.png"/>](https://www.rappi.com.br/)
-
-**Analista de Dados Jr** \
-**Rappi** • Tempo integral \
-**Stack:** `SQL` `Snowflake` `Looker Studio` `Google Sheets` `Airflow` `Git` \
-**Principais entregas:** Dashboards Operacionais, Monitoramento de KPIs, Análises Geoespaciais, Estudos de Performance Operacional e Geração de Insights para tomada de decisão.
+**Responsabilidades:** Analytics para Marketing de Afiliados, estudos de cohort, dashboards executivos e automação de processos.
 
 <br>
 
+[<img align="left" width="100px" alt="Rappi" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Rappi_logo.svg/960px-Rappi_logo.svg.png"/>](https://www.rappi.com.br/)
+
+**Analista de Dados Jr** | **Dez 2022 – Set 2025**
+
+**Stack:** `SQL` `Snowflake` `Looker Studio` `Google Sheets` `Airflow` `Git` 
+
+**Responsabilidades:** Dashboards operacionais, KPIs, análises geoespaciais e otimização de processos.
+
+<br>
 
 
 
