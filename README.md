@@ -17,11 +17,11 @@
 
 ## Sobre mim
 
-Atualmente sou **Analista de Dados Pleno na Shopee**, atuando com Analytics para Marketing de Afiliados. Meu trabalho envolve transformar dados em informações estratégicas por meio de análises, dashboards, automações e métricas que apoiam a tomada de decisão.
+Sou Analista de Dados Pleno na Shopee, atualmente no time de CRM e SEO. Transformo dados em informações estratégicas por meio de análises, dashboards, automações e métricas que sustentam a tomada de decisão. Também desenvolvo modelos de Machine Learning e agentes de IA para automatizar processos, gerar insights e escalar a atuação dos times.
 
-Antes da Shopee, trabalhei na **Rappi**, desenvolvendo soluções de dados para áreas como Operações, Supply, Financeiro e Comercial, com foco em monitoramento de indicadores, análises geoespaciais e otimização de processos.
+Antes da Shopee, passei pela Rappi, onde desenvolvi soluções de dados para Operações, Supply, Financeiro e Comercial, com foco em monitoramento de indicadores, análises geoespaciais e otimização de processos.
 
-Sou formado em **Análise e Desenvolvimento de Sistemas** e em **Ciência de Dados**, com foco em Analytics, Business Intelligence e desenvolvimento de soluções orientadas por dados. Atualmente, continuo aprofundando meus conhecimentos em **Machine Learning**, **Inteligência Artificial** e **Estatística Aplicada**, buscando construir soluções cada vez mais inteligentes e gerar impacto por meio dos dados.
+Sou formado em Análise e Desenvolvimento de Sistemas e em Ciência de Dados, com atuação em Analytics, Business Intelligence e soluções orientadas por dados. Sigo aprofundando meus conhecimentos em Machine Learning, Inteligência Artificial e Estatística Aplicada, com o objetivo de construir soluções cada vez mais inteligentes e gerar impacto por meio dos dados.
 
 
 
